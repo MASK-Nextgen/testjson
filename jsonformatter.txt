@@ -1,0 +1,164 @@
+{
+  "status": true,
+  "message": "Questions fetched successfully",
+  "data": {
+    "questions": [
+      {
+        "_id": "68f17439d9a23d82ad7d2b8f",
+        "question_id": "FB-005",
+        "type": "Fill",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "Don’t post your exact home ________ online.",
+        "options": [],
+        "correct_answer": "address",
+        "createdAt": "2025-10-16T22:39:53.612Z",
+        "updatedAt": "2025-10-16T22:39:53.612Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b8e",
+        "question_id": "FB-004",
+        "type": "Fill",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "On public Wi‑Fi, use a ________ to encrypt traffic.",
+        "options": [],
+        "correct_answer": "VPN",
+        "createdAt": "2025-10-16T22:39:53.610Z",
+        "updatedAt": "2025-10-16T22:39:53.610Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b89",
+        "question_id": "MT-004",
+        "type": "Connect",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "Match the action to the result.",
+        "options": [
+          "Block → No more messages",
+          "Report → Notifies platform",
+          "Screenshot → Save proof"
+        ],
+        "correct_answer": "Block → No more messages; Report → Notifies platform; Screenshot → Save proof",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b8c",
+        "question_id": "FB-002",
+        "type": "Fill",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "A tool that keeps and creates strong passwords is a ________ manager.",
+        "options": [],
+        "correct_answer": "password",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b86",
+        "question_id": "MT-001",
+        "type": "Connect",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "Match each item to its type.",
+        "options": [
+          "Special characters → !@#$%",
+          "Letters → abcde",
+          "Numbers → 1234"
+        ],
+        "correct_answer": "Special characters → !@#$%; Letters → abcde; Numbers → 1234",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b8a",
+        "question_id": "MT-005",
+        "type": "Connect",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "Match the setting to the effect.",
+        "options": [
+          "Private Account → Fewer viewers",
+          "Public Account → Anyone can see",
+          "Friends Only → Approved followers"
+        ],
+        "correct_answer": "Private Account → Fewer viewers; Public Account → Anyone can see; Friends Only → Approved followers",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b8b",
+        "question_id": "FB-001",
+        "type": "Fill",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "What is the act of trying to get your information called? ________.",
+        "options": [],
+        "correct_answer": "Phishing",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b87",
+        "question_id": "MT-002",
+        "type": "Connect",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "Match the term to what it does.",
+        "options": [
+          "VPN → Encrypts traffic",
+          "2FA → Second step",
+          "Password Manager → Stores logins"
+        ],
+        "correct_answer": "VPN → Encrypts traffic; 2FA → Second step; Password Manager → Stores logins",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b8d",
+        "question_id": "FB-003",
+        "type": "Fill",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "Adding a code texted to you is called ________.",
+        "options": [],
+        "correct_answer": "2FA",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      },
+      {
+        "_id": "68f17439d9a23d82ad7d2b88",
+        "question_id": "MT-003",
+        "type": "Connect",
+        "week": 20,
+        "mission": "Knowledge Check",
+        "question": "Match the risk to the example.",
+        "options": [
+          "Phishing → Fake prize link",
+          "Oversharing → Posting address",
+          "Weak password → 123456"
+        ],
+        "correct_answer": "Phishing → Fake prize link; Oversharing → Posting address; Weak password → 123456",
+        "createdAt": "2025-10-16T22:39:53.609Z",
+        "updatedAt": "2025-10-16T22:39:53.609Z",
+        "__v": 0
+      }
+    ],
+    "pagination": {
+      "total": 120,
+      "page": 1,
+      "limit": 10,
+      "totalPages": 12
+    }
+  }
+}
