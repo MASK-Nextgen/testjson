@@ -1,0 +1,32 @@
+{
+    "Version": "26.01.27.1",
+    "DownloadUrl": "https://your-server.com/updates/builds/build_1.2.3.zip",
+    "FileSize": 157286400,
+    "Checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "ReleaseDate": "2025-01-27",
+    "Changelog": [
+        "Added new cybersecurity minigame: Troll Tracker",
+        "Improved VR shooting mechanics with haptic feedback",
+        "Fixed visual novel dialogue system bugs",
+        "Enhanced WebGL loading performance",
+        "Added Password Pop educational game",
+        "Updated character animations for Myra and Alex"
+    ],
+    "Modules": [
+        {
+            "Name": "core",
+            "Version": "1.2.3",
+            "Required": true
+        },
+        {
+            "Name": "vr_module",
+            "Version": "1.0.1",
+            "Required": false
+        },
+        {
+            "Name": "minigames",
+            "Version": "2.0.0",
+            "Required": false
+        }
+    ]
+}
